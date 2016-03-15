@@ -1,0 +1,1 @@
+This is a mobile android app that will allow for an individual to view, edit and use gps to pin point the users location. All the maps and layers will be locally stored so no data connection is required.
